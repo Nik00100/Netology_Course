@@ -1,0 +1,9 @@
+version: '1.0'
+
+services:
+  backend:
+    container_name: transfer_service_backend
+    build: ./
+    image: 'transfer_service_backend:latest'
+    ports:
+      - '8080:8080'

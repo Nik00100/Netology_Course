@@ -1,0 +1,6 @@
+version: '1'
+
+services:
+  image: 'app'
+  ports:
+    - '8080'
