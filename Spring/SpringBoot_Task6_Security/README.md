@@ -18,8 +18,8 @@
 * Приветствие http://localhost:8080/ - доступно всем пользователям
 
 #### Пользователи  
-1. User, пароль user   
-2. stuff, пароль lib  
+1. sportsman, пароль sportsman   
+2. stuff, пароль stuff  
 3. admin, пароль admin
 
 * Доступ в зал http://localhost:8080/signup - права у пользователей 1,2,3
